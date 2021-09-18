@@ -15,6 +15,8 @@ Somos el Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid (GUL 
 - ¿Te interesa la administración de sistemas y tocar las máquinas a bajo nivel? ¡Pues también contamos con nuestros propios servidores!
 - ¿Te interesa ***? Pues actualmente no tenemos ningún grupo de ***, pero únete y coméntalo que seguro encuentras a alguien con intereses comunes
 
+¿Quieres ver nuestra próxima/última actividad? [¡Aquí la tienes!](https://gul.es/eventos)
+
 ## Contáctanos
 
 Si quieres conocer un poco más o participar en la asociación, te invitamos que entres en [gul.es](https://gul.es) y en la sección "Únete" obtendrs toda la información para empezar a participar
