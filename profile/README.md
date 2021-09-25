@@ -19,4 +19,4 @@ Somos el Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid (GUL 
 
 ## Contáctanos
 
-Si quieres conocer un poco más o participar en la asociación, te invitamos que entres en [gul.es](https://gul.es) y en la sección "Únete" obtendrs toda la información para empezar a participar
+Si quieres conocer un poco más o participar en la asociación, te invitamos que entres en [gul.es](https://gul.es) y en la sección "Únete" obtendrás toda la información para empezar a participar
