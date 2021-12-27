@@ -3,6 +3,11 @@
 Somos el Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid (GUL UC3M) y estamos situados en Leganés, en el Edificio Sabatini, despacho 2.3.C05 de la Universidad Carlos III de Madrid.
 ¡Llevamos en activo más de 25 años y no planeamos parar por ahora!
 
+![website status](https://img.shields.io/website?down_color=red-light&down_message=down&up_color=green-light&up_message=up&url=https%3A%2F%2Fgul.es)
+![twitter followers](https://img.shields.io/twitter/follow/guluc3m?style=social)
+![youtube channel](https://img.shields.io/youtube/channel/views/UCXMM-q_i6R6shRwfU99pK5w?style=social)
+![discord](https://img.shields.io/discord/750300808536653876?label=discord)
+
 ## Qué hacemos
 
 ![Foto del despacho, se ve la puerta abierta, una mesa y 4 sillas](https://cloud.gul.es/s/NK4ReonGq4iXBwF/preview)
