@@ -10,7 +10,7 @@ Somos el Grupo de Usuarios de Linux de la Universidad Carlos III de Madrid (GUL 
 
 ## Qué hacemos
 
-![Foto del despacho, se ve la puerta abierta, una mesa y 4 sillas](https://cloud.gul.es/s/NK4ReonGq4iXBwF/preview)
+![Foto del despacho, se ve la puerta abierta, una mesa y 4 sillas](https://cloud-gul.uc3m.es/s/7rxmzGRSr7WxqM9/preview)
 
 ¡Hacemos de todo! Y no porque seamos unos cracks, que hay quien lo es, si no porque hacemos tanto como quieran nuestros miembros.
 - ¿No tienes ni idea de Linux y quieres empezar? Eres más que bienvenid@, aquí estamos todos para aprender. Casi nadie llega a la asociación sabiéndolo todo. De hecho es la gracia del GUL, encontrar a gente que tampoco sabe y aprender todos juntos!
